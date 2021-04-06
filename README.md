@@ -2,8 +2,8 @@
 <pre>
 This is the repo for raw data plotted in figures.
 Files:
-  R2xy.csv (<img src="https://render.githubusercontent.com/render/math?math=<R^2_\perp> / <R^2_{3D}>"> for WLC of finite length),
-  R2xy_long_chain.csv (<img src="https://render.githubusercontent.com/render/math?math=<R^2_\perp> / <R^2_{3D}>"> for long WLC),
+  R2xy.csv (<img src="https://render.githubusercontent.com/render/math?math=<R^2_{xy}> / <R^2_{3D}>"> for WLC of finite length),
+  R2xy_long_chain.csv (<img src="https://render.githubusercontent.com/render/math?math=<R^2_{xy}> / <R^2_{3D}>"> for long WLC),
   R2z.csv (<img src="https://render.githubusercontent.com/render/math?math=<R^2_z> / <R^2_{3D}>"> for WLC of finite length),
   S2.csv (<img src="https://render.githubusercontent.com/render/math?math=<S_2>"> for WLC of finite length),
   S2_long_chain.csv (<img src="https://render.githubusercontent.com/render/math?math=<S_2>">  for long WLC),
